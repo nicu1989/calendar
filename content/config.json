@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.1-preview",
+  "reviewStatus": "pending",
+  "years": [2026, 2027],
+  "sources": [
+    "https://calendar.patriarhia.ro/",
+    "https://calendar.patriarhia.ro/zile-de-post-si-post-uri-de-peste-an/"
+  ]
+}
